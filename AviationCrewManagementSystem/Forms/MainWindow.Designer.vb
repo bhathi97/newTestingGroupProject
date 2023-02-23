@@ -35,9 +35,9 @@ Partial Class MainWindow
         '
         Me.Panel1.BackColor = System.Drawing.Color.CornflowerBlue
         Me.Panel1.Controls.Add(Me.MenuStrip1)
-        Me.Panel1.Location = New System.Drawing.Point(2, 2)
+        Me.Panel1.Location = New System.Drawing.Point(2, 1)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(799, 450)
+        Me.Panel1.Size = New System.Drawing.Size(799, 451)
         Me.Panel1.TabIndex = 0
         '
         'MenuStrip1
